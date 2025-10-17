@@ -36,7 +36,7 @@ export default function Home() {
           />
           <ol>
             <li>
-             Hello there how real is this
+            Hey boss help me
             </li>
             <li>Save and see your changes instantly.</li>
           </ol>
